@@ -1,0 +1,10 @@
+{
+  "name": "cognidev-ui-kit",
+  "version": "0.4.0",
+  "description": "Shared React UI primitives used across CogniDev demo apps.",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.ts",
+  "repository": { "type": "git", "url": "https://github.com/cognidevwb/cognidev-ui-kit.git" },
+  "peerDependencies": { "react": ">=18" }
+}
